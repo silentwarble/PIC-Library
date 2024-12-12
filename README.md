@@ -105,3 +105,4 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 - https://web.archive.org/web/20170501023430/http://winternl.com/2016/05/02/hello-world/
 - https://www.blackhat.com/presentations/bh-europe-09/Caillat/BlackHat-Europe-09-Caillat-Wishmaster-whitepaper.pdf
 - https://files.brucon.org/2021/PIC-Your-Malware.pdf
+- https://wbenny.github.io/2024/12/08/section-order-masm-text-mn-subsection.html
