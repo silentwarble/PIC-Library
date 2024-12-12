@@ -25,8 +25,7 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 - [Encryption](#encryption)
 - [Encoding](#encoding)
 - [Hashing](#hashing)
-- [Blog Posts](#blog-posts)
-- [Other](#other)
+- [References](#references)
 
 ### Shellcoding Templates
 
