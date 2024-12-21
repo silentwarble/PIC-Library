@@ -61,6 +61,7 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 | Windows | https://github.com/monoxgas/sRDI | Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode |
 | Windows | https://github.com/hasherezade/pe_to_shellcode | Converts PE into a shellcode |
 | Windows | https://github.com/timwhitez/Doge-sRDI | Shellcode implementation of Reflective DLL Injection by Golang. Convert DLLs to position independent shellcode | 
+| Windows | https://github.com/maliciousgroup/RDI-SRDI | This repo goes with the blog entry at blog.malicious.group entitled "Writing your own RDI / sRDI loader using C and ASM". |
 | Linux | https://github.com/jonatanSh/shelf | Python library to convert elf to os-independent shellcodes |
 | Linux | https://github.com/feliam/mkShellcode | This rearranges an ELF object file so it can be used as shellcode.|
 
@@ -106,3 +107,4 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 - https://www.blackhat.com/presentations/bh-europe-09/Caillat/BlackHat-Europe-09-Caillat-Wishmaster-whitepaper.pdf
 - https://files.brucon.org/2021/PIC-Your-Malware.pdf
 - https://wbenny.github.io/2024/12/08/section-order-masm-text-mn-subsection.html
+- https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/
