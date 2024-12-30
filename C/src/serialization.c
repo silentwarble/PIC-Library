@@ -88,6 +88,10 @@ uint32_t read_uint32(uint8_t **buffer)
  * You may not need to allocate on the heap. However,
  * unless you've accounted for stack size limitations
  * you may clobber the stack when reading large buffers.
+ * It is advised you use HeapAlloc instead of VirtualAlloc. VirtuallAlloc allocates
+ * at least 4kb (page). HeapAlloc will alloc just the bytes needed. This is important
+ * in something as performance sensitive as serialization. You will need to track
+ * the process heap pointer though.
  */
 uint8_t* read_bytes(uint8_t **buffer, uint32_t length) 
 {
@@ -104,6 +108,10 @@ uint8_t* read_bytes(uint8_t **buffer, uint32_t length)
 /**
  * Expects that the string is null terminated. If not, you can use
  * the length param.
+ * It is advised you use HeapAlloc instead of VirtualAlloc. VirtuallAlloc allocates
+ * at least 4kb (page). HeapAlloc will alloc just the bytes needed. This is important
+ * in something as performance sensitive as serialization. You will need to track
+ * the process heap pointer though.
  */
 char* read_string(uint8_t **buffer, uint32_t length) 
 {
@@ -124,6 +132,10 @@ char* read_string(uint8_t **buffer, uint32_t length)
 /**
  * Expects that the string is null terminated. If not, you can use
  * the length param.
+ * It is advised you use HeapAlloc instead of VirtualAlloc. VirtuallAlloc allocates
+ * at least 4kb (page). HeapAlloc will alloc just the bytes needed. This is important
+ * in something as performance sensitive as serialization. You will need to track
+ * the process heap pointer though.
  */
 wchar_t* read_stringW(uint8_t **buffer, uint32_t length)
 {
