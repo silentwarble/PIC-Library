@@ -108,3 +108,4 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 - https://files.brucon.org/2021/PIC-Your-Malware.pdf
 - https://wbenny.github.io/2024/12/08/section-order-masm-text-mn-subsection.html
 - https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/
+- https://github.com/m4ul3r/writing_nimless
