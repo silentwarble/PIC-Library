@@ -50,6 +50,7 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 | C/C++ | https://packetstorm.news/files/id/31755 | MOSDEF is a 100% Python retargetable compiler for C->shellcode that has been released to the public under the LGPL.|
 | C/C++ | https://scc.binary.ninja/ | The Shellcode Compiler is a C compiler designed to output standalone code that will be injected into other running processes. |
 | C/C++ | https://github.com/rainerzufalldererste/windows_x64_shellcode_template |  An easily modifiable shellcode template for Windows x64 written in C |
+| C/C++ | https://github.com/tijme/relocatable |   Boilerplate to develop raw and truly Position Independent Code (PIC).  |
 | Rust | https://github.com/safedv/Rustic64 | 64-bit, position-independent implant template for Windows in Rust.|
 | Rust | https://github.com/Irate-Walrus/stardust-rs | An i686 & x86_64 position independent implant template for Rust 🦀 |
 
