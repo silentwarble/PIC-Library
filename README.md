@@ -31,7 +31,7 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 
 | Language | Link | About |
 | -------- | ------- | ------- |
-| C/C++ | https://github.com/silentwarble/dittobytes | Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. |
+| C/C++ | https://github.com/tijme/dittobytes | Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. |
 | C/C++ | https://github.com/realoriginal/shellcode-template     | A cmkr based win32 shellcode template for a unified build platform and more production friendly structure/testing. |
 | C/C++  | https://github.com/Cracked5pider/Stardust    | A modern 64-bit position independent implant template |
 | C/C++  | https://github.com/paranoidninja/PIC-Get-Privileges     | Building and Executing Position Independent Shellcode from Object Files in Memory |
@@ -61,7 +61,7 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 
 | Target OS | Link | About |
 | -------- | ------- | ------- |
-| Windows/Mac/Linux | https://github.com/silentwarble/dittobytes | Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. |
+| Windows/Mac/Linux | https://github.com/tijme/dittobytes | Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. |
 | Windows | https://github.com/TheWover/donut| Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters |
 | Windows | https://github.com/monoxgas/sRDI | Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode |
 | Windows | https://github.com/hasherezade/pe_to_shellcode | Converts PE into a shellcode |
