@@ -31,6 +31,7 @@ Not all content has been tested. Snippets in general should be PIC friendly, but
 
 | Language | Link | About |
 | -------- | ------- | ------- |
+| C/C++ | https://github.com/winterknife/SILVERPICK | Windows User-Mode Shellcode Development Framework (WUMSDF) |
 | C/C++ | https://github.com/tijme/dittobytes | Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. |
 | C/C++ | https://github.com/realoriginal/shellcode-template     | A cmkr based win32 shellcode template for a unified build platform and more production friendly structure/testing. |
 | C/C++  | https://github.com/Cracked5pider/Stardust    | A modern 64-bit position independent implant template |
